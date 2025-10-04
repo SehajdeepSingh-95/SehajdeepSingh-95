@@ -82,12 +82,12 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="65" height="65" alt="C++" />
         <br /><strong>C++</strong>
       </td>
+    <tr>
       <td align="center" width="140" height="112.43">
-        <td align="center" width="140" height="112.43">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg" width="65" height="65" alt="C++" />
-        <br /><strong>C++</strong>
-      </td>
-      </td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg" width="65" height="65" alt="Node" />
+      <br /><strong>Node</strong>
+  <  /td>
+  </tr>
       <td align="center" width="140" height="112.43"></td>
       <td align="center" width="140" height="112.43"></td>
     </tr>
