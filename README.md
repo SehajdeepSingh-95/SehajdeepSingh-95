@@ -82,12 +82,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="65" height="65" alt="C++" />
         <br /><strong>C++</strong>
       </td>
-    <tr>
       <td align="center" width="140" height="112.43">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg" width="65" height="65" alt="Node" />
-      <br /><strong>Node</strong>
-  <  /td>
-  </tr>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="Node.js" />
+        <br /><strong>Node.js</strong>
+      </td>
       <td align="center" width="140" height="112.43"></td>
       <td align="center" width="140" height="112.43"></td>
     </tr>
@@ -130,4 +128,4 @@
 
 ---
 
-<p align="center">Made with ❤️ by Sehajdeep Singh</p>
+<p align="center">Made by Sehajdeep Singh</p>
