@@ -7,12 +7,12 @@
 ## Student at Thapar Institute of Technology | Tech Explorer 🚀
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sehajdeepsingh95&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sehajdeepsingh-95&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sehajdeepsingh95&theme=algolia&no-bg=true&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sehajdeepsingh-95&theme=algolia&no-bg=true&no-frame=true&margin-w=10" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -94,15 +94,15 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sehajdeepsingh95&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sehajdeepsingh-95&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sehajdeepsingh95&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sehajdeepsingh-95&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehajdeepsingh95&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehajdeepsingh-95&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
