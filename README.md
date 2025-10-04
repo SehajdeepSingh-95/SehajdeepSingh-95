@@ -69,22 +69,22 @@
         <br /><strong>React</strong>
       </td>
       <td align="center" width="140" height="112.43">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="65" height="65" alt="Python" />
-        <br /><strong>Python</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="Node.js" />
+        <br /><strong>Node.js</strong>
       </td>
       <td align="center" width="140" height="112.43">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="65" height="65" alt="C" />
-        <br /><strong>C</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="65" height="65" alt="Python" />
+        <br /><strong>Python</strong>
       </td>
     </tr>
     <tr>
       <td align="center" width="140" height="112.43">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="65" height="65" alt="C++" />
-        <br /><strong>C++</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="65" height="65" alt="C" />
+        <br /><strong>C</strong>
       </td>
       <td align="center" width="140" height="112.43">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="Node.js" />
-        <br /><strong>Node.js</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="65" height="65" alt="C++" />
+        <br /><strong>C++</strong>
       </td>
       <td align="center" width="140" height="112.43"></td>
       <td align="center" width="140" height="112.43"></td>
