@@ -96,25 +96,7 @@
 </div>
 
 ---
-## 📊 GitHub Statistics  
-
-<p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=sehajdeepsingh-95&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" 
-       alt="Sehajdeep's GitHub Stats" 
-       height="165" />
-  
-  <img 
-       src="https://github-readme-streak-stats.herokuapp.com?user=sehajdeepsingh-95&theme=tokyonight&hide_border=false" 
-       alt="Sehajdeep's GitHub Streak" 
-       height="165" />
-</p>
-
-<p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehajdeepsingh-95&layout=compact&theme=tokyonight&hide_border=false" 
-       alt="Top Languages" />
-</p>
+## 📊 GitHub Statistics <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sehajdeepsingh-95&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=sehajdeepsingh-95&theme=tokyonight&hide_border=false" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehajdeepsingh-95&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 
 
 ## 💡 Quote of the Day
