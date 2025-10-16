@@ -84,7 +84,7 @@
       </td>
       </td>
       <td align="center" width="140" height="112.43">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/django-original.svg" width="65" height="65" alt="C++" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="65" height="65" alt="C++" />
         <br /><strong>Django</strong>
       </td>
       <td align="center" width="140" height="112.43">
@@ -94,8 +94,6 @@
       <td align="center" width="140" height="112.43">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="65" height="65" alt="C++" />
         <br /><strong>C++</strong>
-      </td>
-      <td align="center" width="140" height="112.43"></td>
     </tr>
   </table>
 </div>
