@@ -82,6 +82,11 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="65" height="65" alt="Python" />
         <br /><strong>Python</strong>
       </td>
+      </td>
+      <td align="center" width="140" height="112.43">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/django-original.svg" width="65" height="65" alt="C++" />
+        <br /><strong>Django</strong>
+      </td>
       <td align="center" width="140" height="112.43">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="65" height="65" alt="C" />
         <br /><strong>C</strong>
